@@ -13,7 +13,7 @@
 nav :where(ol, ul) {
   list-style: none;
 }
-
+/* adding a new comment */
 img,
 picture {
   width: 100%;
